@@ -1,0 +1,8 @@
+.textParagraph {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+ul, ol {
+  list-style-position: inside;
+}
